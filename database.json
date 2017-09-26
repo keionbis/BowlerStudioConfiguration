@@ -11,6 +11,10 @@
     "https://github.com/madhephaestus/SeriesElasticActuator.git:seaLinkGen.groovy": [
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
+    ],
+    "https://gist.github.com/2b046ce738f2254b3cba28e759af70cb.git:HIDBowlerDevice.groovy": [
+      "https://gist.github.com/2b046ce738f2254b3cba28e759af70cb.git",
+      "HIDBowlerDevice.groovy"
     ]
   },
   "BowlerStudioConfigs": {
