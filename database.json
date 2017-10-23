@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/RBE3001-Lab/rbe3001-nucleo-firmware-team_11.git:Desktop/testfile.groovy": [
+      "https://github.com/RBE3001-Lab/rbe3001-nucleo-firmware-team_11.git",
+      "Desktop/testfile.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
