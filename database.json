@@ -8,9 +8,29 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/RBE3001-Lab/rbe3001-nucleo-firmware-team_11.git:Desktop/testfile.groovy": [
-      "https://github.com/RBE3001-Lab/rbe3001-nucleo-firmware-team_11.git",
-      "Desktop/testfile.groovy"
+    "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git:jaguar.xml": [
+      "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git",
+      "jaguar.xml"
+    ],
+    "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git:DefaultDhSolver.groovy": [
+      "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git",
+      "DefaultDhSolver.groovy"
+    ],
+    ":": [
+      "",
+      ""
+    ],
+    "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git",
+      "LinkedCadEngine.groovy"
+    ],
+    "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git:Walking.groovy": [
+      "https://gist.github.com/e8fc119f731620c034f766768e7fe62a.git",
+      "Walking.groovy"
+    ],
+    "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git:Walking.groovy": [
+      "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git",
+      "Walking.groovy"
     ]
   },
   "BowlerStudioConfigs": {
