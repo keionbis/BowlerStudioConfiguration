@@ -8,8 +8,8 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/keionbis/JaguarQuadruped.git:launch.groovy": [
-      "https://github.com/keionbis/JaguarQuadruped.git",
+    "https://github.com/keionbis/SmallKat.git:launch.groovy": [
+      "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
     ]
   },
