@@ -11,6 +11,10 @@
     "https://gist.github.com/2b046ce738f2254b3cba28e759af70cb.git:HIDBowlerDevice.groovy": [
       "https://gist.github.com/2b046ce738f2254b3cba28e759af70cb.git",
       "HIDBowlerDevice.groovy"
+    ],
+    "https://gist.github.com/88e6495a8d18aef89cda8ccd3a2fc6e9.git:MyNametags.groovy": [
+      "https://gist.github.com/88e6495a8d18aef89cda8ccd3a2fc6e9.git",
+      "MyNametags.groovy"
     ]
   },
   "BowlerStudioConfigs": {
