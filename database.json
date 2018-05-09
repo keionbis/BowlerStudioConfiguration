@@ -11,10 +11,6 @@
     "https://github.com/keionbis/SmallKat.git:launch.groovy": [
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
-    ],
-    "https://github.com/keionbis/SmallKat.git:Bowler/cat.xml": [
-      "https://github.com/keionbis/SmallKat.git",
-      "Bowler/cat.xml"
     ]
   },
   "BowlerStudioConfigs": {
