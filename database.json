@@ -12,6 +12,10 @@
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
     ],
+    "https://gist.github.com/2b046ce738f2254b3cba28e759af70cb.git:HIDBowlerDevice.groovy": [
+      "https://gist.github.com/2b046ce738f2254b3cba28e759af70cb.git",
+      "HIDBowlerDevice.groovy"
+    ],
     "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git:Walking.groovy": [
       "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git",
       "Walking.groovy"
