@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/c3cdee36e2b6f8b2104d7d424039e10f.git:OpenCV_Color_Detect.groovy": [
-      "https://gist.github.com/c3cdee36e2b6f8b2104d7d424039e10f.git",
-      "OpenCV_Color_Detect.groovy"
-    ],
-    "https://gist.github.com/660853e74e87b61988d557406d95610a.git:hidApiTest.groovy": [
-      "https://gist.github.com/660853e74e87b61988d557406d95610a.git",
-      "hidApiTest.groovy"
+    "https://gist.github.com/05e005273b99a586fc07099d559b9853.git:HephaestusArmTest.groovy": [
+      "https://gist.github.com/05e005273b99a586fc07099d559b9853.git",
+      "HephaestusArmTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
