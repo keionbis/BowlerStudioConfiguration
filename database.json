@@ -8,9 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/keionbis/SmallKat.git:launch.groovy": [
+      "https://github.com/keionbis/SmallKat.git",
+      "launch.groovy"
+    ],
     "https://gist.github.com/05e005273b99a586fc07099d559b9853.git:HephaestusArmTest.groovy": [
       "https://gist.github.com/05e005273b99a586fc07099d559b9853.git",
       "HephaestusArmTest.groovy"
+    ],
+    "https://github.com/keionbis/SmallKat.git:Bowler/cat.xml": [
+      "https://github.com/keionbis/SmallKat.git",
+      "Bowler/cat.xml"
     ]
   },
   "BowlerStudioConfigs": {
