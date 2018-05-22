@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/keionbis/SmallKat.git:Bowler/DynamicWalking.groovy": [
+      "https://github.com/keionbis/SmallKat.git",
+      "Bowler/DynamicWalking.groovy"
+    ],
     "https://github.com/keionbis/SmallKat.git:launch.groovy": [
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
@@ -20,7 +24,7 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
-    "skinBranch": "0.25.3",
+    "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
