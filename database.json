@@ -15,10 +15,6 @@
     "https://github.com/keionbis/SmallKat.git:launch.groovy": [
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
-    ],
-    "https://gist.github.com/05e005273b99a586fc07099d559b9853.git:HephaestusArmTest.groovy": [
-      "https://gist.github.com/05e005273b99a586fc07099d559b9853.git",
-      "HephaestusArmTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
