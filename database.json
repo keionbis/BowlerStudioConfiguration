@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/9e20705df7b5f9d9e4ae4ac6449ffe18.git:MasterSlaveSimulation.groovy": [
+      "https://gist.github.com/9e20705df7b5f9d9e4ae4ac6449ffe18.git",
+      "MasterSlaveSimulation.groovy"
+    ],
     "https://github.com/keionbis/SmallKat.git:launch.groovy": [
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
