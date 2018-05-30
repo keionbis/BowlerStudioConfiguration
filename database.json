@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/9e20705df7b5f9d9e4ae4ac6449ffe18.git:MasterSlaveSimulation.groovy": [
+      "https://gist.github.com/9e20705df7b5f9d9e4ae4ac6449ffe18.git",
+      "MasterSlaveSimulation.groovy"
+    ],
     "https://gist.github.com/05e005273b99a586fc07099d559b9853.git:HephaestusArmTest.groovy": [
       "https://gist.github.com/05e005273b99a586fc07099d559b9853.git",
       "HephaestusArmTest.groovy"
