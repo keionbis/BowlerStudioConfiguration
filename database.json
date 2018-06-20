@@ -11,6 +11,10 @@
     "https://github.com/keionbis/SmallKat.git:launch.groovy": [
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
+    ],
+    "https://gist.github.com/6627534056a8f8407d77fbc98060f769.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/6627534056a8f8407d77fbc98060f769.git",
+      "BNO055Visualizer.groovy"
     ]
   },
   "BowlerStudioConfigs": {
