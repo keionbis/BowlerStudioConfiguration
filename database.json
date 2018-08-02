@@ -7,20 +7,11 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/keionbis/SmallKat.git:launch.groovy": [
-      "https://github.com/keionbis/SmallKat.git",
-      "launch.groovy"
-    ],
-    "https://gist.github.com/6627534056a8f8407d77fbc98060f769.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/6627534056a8f8407d77fbc98060f769.git",
-      "BNO055Visualizer.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
-    "skinBranch": "0.26.2",
+    "skinBranch": "0.28.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
