@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "git@github.com:OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
+      "git@github.com:OperationSmallKat/SmallKat_V2.git",
+      "loadRobot.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
