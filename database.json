@@ -8,15 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "git@github.com:OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
-      "git@github.com:OperationSmallKat/SmallKat_V2.git",
-      "loadRobot.groovy"
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
-    "skinBranch": "0.26.2",
+    "skinBranch": "0.28.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
