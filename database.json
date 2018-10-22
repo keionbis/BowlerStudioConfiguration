@@ -15,6 +15,10 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
+    ],
+    "https://gist.github.com/88e6495a8d18aef89cda8ccd3a2fc6e9.git:MyNametags.groovy": [
+      "https://gist.github.com/88e6495a8d18aef89cda8ccd3a2fc6e9.git",
+      "MyNametags.groovy"
     ]
   },
   "BowlerStudioConfigs": {
