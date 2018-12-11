@@ -11,10 +11,6 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalking.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalking.groovy"
     ]
   },
   "BowlerStudioConfigs": {
