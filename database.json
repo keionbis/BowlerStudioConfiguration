@@ -8,8 +8,8 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/greycat.git",
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
     ]
   },
