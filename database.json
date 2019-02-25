@@ -12,14 +12,6 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
     ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/simplecad.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/simplecad.groovy"
-    ],
-    "https://gist.github.com/76a595d821689e938078ca6c1af9a5f4.git:simplecad.groovy": [
-      "https://gist.github.com/76a595d821689e938078ca6c1af9a5f4.git",
-      "simplecad.groovy"
-    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/xlCad.groovy"
