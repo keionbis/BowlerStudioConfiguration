@@ -15,14 +15,6 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:loadRobot.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "loadRobot.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlCad.groovy"
-    ],
-    "https://gist.github.com/88e6495a8d18aef89cda8ccd3a2fc6e9.git:MyNametags.groovy": [
-      "https://gist.github.com/88e6495a8d18aef89cda8ccd3a2fc6e9.git",
-      "MyNametags.groovy"
     ]
   },
   "BowlerStudioConfigs": {
