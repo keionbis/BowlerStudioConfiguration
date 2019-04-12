@@ -8,13 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/greycat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalking.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/DynamicWalking.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
+    ],
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:loadRobot.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
