@@ -7,28 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "null:dhsolver.groovy": [
-      null,
-      "dhsolver.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "launch.groovy"
-    ],
-    "null:loadRobot.groovy": [
-      null,
-      "loadRobot.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "dhsolver.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:loadRobot.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "loadRobot.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
