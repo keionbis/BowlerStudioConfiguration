@@ -8,6 +8,18 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "null:dhsolver.groovy": [
+      null,
+      "dhsolver.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "launch.groovy"
+    ],
+    "null:loadRobot.groovy": [
+      null,
+      "loadRobot.groovy"
+    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "dhsolver.groovy"
