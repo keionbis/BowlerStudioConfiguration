@@ -3,6 +3,10 @@
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1567095388009"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1567095398706"
     ]
   },
   "studio-open-web": {},
@@ -25,6 +29,10 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "dhsolver.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/MediumCad.groovy"
     ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:loadRobot.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
