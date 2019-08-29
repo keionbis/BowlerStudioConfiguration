@@ -30,25 +30,13 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
     ],
-    "https://github.com/OperationSmallKat/smallkat_xl_bowler.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/smallkat_xl_bowler.git",
-      "launch.groovy"
-    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "dhsolver.groovy"
     ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/MediumCad.groovy"
-    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:loadRobot.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "loadRobot.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
