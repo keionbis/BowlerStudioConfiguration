@@ -30,6 +30,10 @@
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
     ],
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:launch.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "launch.groovy"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "loadRobot.groovy"
