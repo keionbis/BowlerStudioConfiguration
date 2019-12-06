@@ -15,6 +15,10 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git": [
       "SmallKatMQP/smallkat-xl-bowler",
       "1567095557115"
+    ],
+    "https://github.com/keionbis/blackcat.git": [
+      "keionbis/blackcat",
+      "1575600857652"
     ]
   },
   "studio-open-web": {},
@@ -29,6 +33,10 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/DynamicWalking.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
+    ],
+    "https://github.com/keionbis/blackcat.git:MediumKat.xml": [
+      "https://github.com/keionbis/blackcat.git",
+      "MediumKat.xml"
     ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
