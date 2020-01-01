@@ -41,6 +41,10 @@
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
+    ],
+    "https://github.com/keionbis/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/keionbis/SmallKat_V2.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
