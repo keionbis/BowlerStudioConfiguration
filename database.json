@@ -12,9 +12,17 @@
       "OperationSmallKat/SmallKat_V2",
       "1567095398706"
     ],
+    "https://github.com/keionbis/SmallKat_V2.git": [
+      "keionbis/SmallKat_V2",
+      "1575609762486"
+    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git": [
       "SmallKatMQP/smallkat-xl-bowler",
       "1567095557115"
+    ],
+    "https://github.com/keionbis/blackcat.git": [
+      "keionbis/blackcat",
+      "1575600857652"
     ]
   },
   "studio-open-web": {},
@@ -30,6 +38,18 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
     ],
+    "https://github.com/keionbis/blackcat.git:launch.groovy": [
+      "https://github.com/keionbis/blackcat.git",
+      "launch.groovy"
+    ],
+    "https://github.com/keionbis/blackcat.git:MediumKat.xml": [
+      "https://github.com/keionbis/blackcat.git",
+      "MediumKat.xml"
+    ],
+    "https://github.com/keionbis/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/keionbis/SmallKat_V2.git",
+      "loadRobot.groovy"
+    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "dhsolver.groovy"
@@ -41,6 +61,10 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/xlCad.groovy"
+    ],
+    "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git:DefaultDhSolver.groovy": [
+      "https://gist.github.com/17f2da51abe25e043043946d91610ddd.git",
+      "DefaultDhSolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
