@@ -4,6 +4,10 @@
       "OperationSmallKat/greycat",
       "1567095388009"
     ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1580746938737"
+    ],
     "https://github.com/OperationSmallKat/Luna.git": [
       "OperationSmallKat/Luna",
       "1577912568724"
@@ -41,6 +45,10 @@
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "load.groovy"
     ],
     "https://github.com/keionbis/SmallKat_V2.git:loadRobot.groovy": [
       "https://github.com/keionbis/SmallKat_V2.git",
