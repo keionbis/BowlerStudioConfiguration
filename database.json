@@ -42,6 +42,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/c8c1d1533a400168c62bd784a507b07e.git:grabtest.groovy": [
+      "https://gist.github.com/c8c1d1533a400168c62bd784a507b07e.git",
+      "grabtest.groovy"
+    ],
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
