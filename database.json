@@ -20,6 +20,10 @@
       "GIST: grabtest.groovy",
       "1580754845761"
     ],
+    "https://github.com/OperationSmallKat/HIDSmallKat.git": [
+      "OperationSmallKat/HIDSmallKat",
+      "1581018377480"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1567095398706"
@@ -46,25 +50,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
-      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
-      "hidLinkLoader.groovy"
-    ],
-    "https://gist.github.com/c8c1d1533a400168c62bd784a507b07e.git:grabtest.groovy": [
-      "https://gist.github.com/c8c1d1533a400168c62bd784a507b07e.git",
-      "grabtest.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:load.groovy": [
-      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
-      "load.groovy"
-    ],
-    "https://github.com/keionbis/SmallKat_V2.git:loadRobot.groovy": [
-      "https://github.com/keionbis/SmallKat_V2.git",
-      "loadRobot.groovy"
+    "https://github.com/OperationSmallKat/HIDSmallKat.git:DefaultDhSolver.groovy": [
+      "https://github.com/OperationSmallKat/HIDSmallKat.git",
+      "DefaultDhSolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
