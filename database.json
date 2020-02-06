@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/keionbis/HIDSmallKat_copy.git": [
+      "keionbis/HIDSmallKat_copy",
+      "1581018640999"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1567095388009"
@@ -49,7 +53,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/keionbis/HIDSmallKat_copy.git:walking.groovy": [
+      "https://github.com/keionbis/HIDSmallKat_copy.git",
+      "walking.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
