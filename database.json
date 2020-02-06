@@ -49,12 +49,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/OperationSmallKat/HIDSmallKat.git:DefaultDhSolver.groovy": [
-      "https://github.com/OperationSmallKat/HIDSmallKat.git",
-      "DefaultDhSolver.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
