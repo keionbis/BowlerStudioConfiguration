@@ -54,13 +54,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git:hidLinkLoader.groovy": [
+      "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
+      "hidLinkLoader.groovy"
+    ],
     "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
       "https://github.com/OperationSmallKat/HIDSmallKat.git",
       "HIDSmallKat.xml"
-    ],
-    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
