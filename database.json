@@ -58,13 +58,13 @@
       "https://github.com/OperationSmallKat/SmallKatLinkLoader.git",
       "hidLinkLoader.groovy"
     ],
-    "https://github.com/OperationSmallKat/HIDSmallKat.git:Bowler/MediumCad.groovy": [
-      "https://github.com/OperationSmallKat/HIDSmallKat.git",
-      "Bowler/MediumCad.groovy"
-    ],
     "https://github.com/OperationSmallKat/HIDSmallKat.git:HIDSmallKat.xml": [
       "https://github.com/OperationSmallKat/HIDSmallKat.git",
       "HIDSmallKat.xml"
+    ],
+    "https://gist.github.com/245e156a99654c7590437b12f200958c.git:moveToPos.groovy": [
+      "https://gist.github.com/245e156a99654c7590437b12f200958c.git",
+      "moveToPos.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -72,7 +72,7 @@
     "firstVersion": "0.22.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 20,
     "skinBranch": "1.4.4",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
