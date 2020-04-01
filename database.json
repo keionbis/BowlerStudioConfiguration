@@ -66,9 +66,9 @@
       "https://github.com/OperationSmallKat/HIDSmallKat.git",
       "HIDSmallKat.xml"
     ],
-    "https://gist.github.com/245e156a99654c7590437b12f200958c.git:moveToPos.groovy": [
-      "https://gist.github.com/245e156a99654c7590437b12f200958c.git",
-      "moveToPos.groovy"
+    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "MediumKat.xml"
     ]
   },
   "BowlerStudioConfigs": {
