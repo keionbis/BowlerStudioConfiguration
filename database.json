@@ -53,7 +53,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "MediumKat.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
