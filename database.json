@@ -54,6 +54,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/xaveagle/blackcat.git:walking.groovy": [
+      "https://github.com/xaveagle/blackcat.git",
+      "walking.groovy"
+    ],
     "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
       "https://github.com/OperationSmallKat/Luna.git",
       "MediumKat.xml"
